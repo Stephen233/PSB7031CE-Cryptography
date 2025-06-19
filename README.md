@@ -1,7 +1,11 @@
 # PSB7031CE-Cryptography
 **Course: PSB7031CE - Cryptography
+
 Student: Lu Hanhao
+
 Student ID: 14090147
+
+
 Project Overview**
 This project implements three cryptographic schemes for different scenarios:
 
